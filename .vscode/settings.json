@@ -1,0 +1,15 @@
+{
+  "editor.cursorBlinking": "blink",
+  "cSpell.words": [
+    "callcenter",
+    "duracao",
+    "grafico",
+    "ligacoes",
+    "Luccas",
+    "nbformat",
+    "numby",
+    "openpyxl",
+    "plotly"
+  ],
+  "python.analysis.autoImportCompletions": false
+}
