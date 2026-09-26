@@ -72,6 +72,8 @@ A utilização de blocos permite executar e analisar cada etapa do código separ
 
 ---
 
+### 📚 Projeto apresentado na apostila
+
 <p align="center">
   <img src="./assets/analise-graficos.png" alt="Análise de dados com Python" width="800">
 </p>
